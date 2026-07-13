@@ -10,8 +10,8 @@
 | Ship | Class | Notes |
 |---|---|---|
 | *Intemperance* (flagship) | Sword-class frigate | Old but well-gunned; ancestor portraits line her corridors |
-| *Pale Wager* | Raider-class escort | Fast; crew are borderline pirates on plunder shares |
-| *Dutiful Son* | Armed transport | 8,000 souls: troops, tech-adepts, colonists, supplies |
+| *Pale Wager* | Raider-class escort | Fast; crew are borderline pirates on plunder shares; escorting the Son's circuit (near Locke's wreck — watch the share-book) |
+| *Dutiful Son* | Armed transport | Colonists landed Day 26–28; now the system resource circuit: belt ore → gas-giant fuel → Veyra (first delivery ~Day 50) |
 
 ## Ground forces
 - ~2,000 house troops, under-equipped but drilled to Guard standards
@@ -19,7 +19,10 @@
   - Uncertain element: old family retainers loyal to the name, not the man
 
 ## Colonial assets
-- Supplies and colonists sufficient for ONE serious attempt at a foothold
+- **SPENT Day 26–28: the one foothold is planted.** ~5,400 colonists landed
+  at **Dawnholt**, Greenvault valley, eastern Tessene foothills (granted by
+  the Deepward King). Garrison: Ferro's retainer companies (~400).
+  Pilgrimage influx beginning — future levy/labor pool.
 
 ## Holdings
 - **Veyra (Hesperus Prime II)** — claimed planetwide in the Emperor's name

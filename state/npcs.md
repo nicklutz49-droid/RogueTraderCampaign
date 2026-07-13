@@ -22,6 +22,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Tech-priest; obsessed with rumors of pre-Imperial technology in the Reach
 - Attitude: cooperative while the expedition serves his research
 - Currently fixated on the ancient orbital ruin at Hesperus Prime IV
+- Eleven formal petitions and counting; latest (Day 29): embark on the
+  *Dutiful Son* for "purely passive" long-augur survey of Prime IV in
+  passing — Aurelian's answer pending
 
 ### Sister Dialogous Marguerite
 - Officially the archivist; everyone suspects she reports to someone
@@ -54,7 +57,10 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 
 ### Veyran powers (institutional contacts, faces not yet met)
 - **The Deepward King of Tessene** — knelt Day 17; invited the Herald "to
-  descend and be known... before the Deep" (test embedded in submission)
+  descend and be known... before the Deep" (test embedded in submission);
+  Day 25 granted the Greenvault for our colony ("dawnward" honor); Day 30
+  pledged 20,000 mountain troops — deliverable when the Herald descends.
+  Every gift renews the invitation
 - **The Directorate of Bray** — secular oligarchs; defied the claim until
   the Vantery Judgment (Day 20), capitulated Day 22: ceasefire ordered,
   Deed of Instrument offered, contingent on fuel/ore supply from the sky.

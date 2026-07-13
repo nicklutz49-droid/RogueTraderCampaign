@@ -13,13 +13,15 @@
 
 ## HESPERUS PRIME SYSTEM (current location)
 
-### Hesperus Prime II — "Veyra" (CLAIMED Day 15; enforced Day 20)
-**Status: the Grey War is silent (first time in 11 years). Tessene knelt
-(invitation/test pending at the mountain capital). Compact acknowledged
-(harbor offered; selling intel to unknown buyers). Bray capitulated Day 22
-after the Vantery Judgment — Deed of Instrument unsigned, fuel/ore ask
-attached. Combine Kolvax in rebellion (~60,000 militia, southern front).
-Named in play: Grisholm (Bray capital), Vantery Arsenal (destroyed).**
+### Hesperus Prime II — "Veyra" (CLAIMED Day 15; enforced Day 20; Herald's Peace Day 24)
+**Status: the Grey War is silent. Regime: "serve and be fed" — trade as
+grace, no negotiation. Tessene knelt, granted the Greenvault, pledged
+20,000 mountain troops deliverable on the Herald's descent (test pending).
+Compact acknowledged (selling intel to unknown buyers). Bray capitulated;
+furnaces await sky-ore. Combine Kolvax in rebellion (~60k, fortified
+southern pocket); campaign forming. **DAWNHOLT** founded Day 28 in the
+Greenvault (5,400 colonists; Ferro's retainers garrison; pilgrims
+arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - ~38 million souls; pre-warp lost colony; language "Veyric" (drifted Low
   Gothic — Marguerite can interpret, soon pass)
 - Tech: early industrial war — rail, artillery, dirigibles, gas shells,
@@ -61,7 +63,7 @@ Named in play: Grisholm (Bray capital), Vantery Arsenal (destroyed).**
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## Campaign date
-Day 23 of the Hesperus expedition. The flotilla holds orbit over Veyra;
-the Grey War is silent; the Deed of Instrument and Tessene's invitation
-both wait on the Herald's next move. (Track elapsed time in log entries:
-"Day X of the Hesperus expedition.")
+Day 30 of the Hesperus expedition. *Intemperance* over Veyra; *Dutiful
+Son* + *Pale Wager* on system resource circuit (first delivery ~Day 50);
+Kolvax campaign shape pending. (Track elapsed time in log entries: "Day X
+of the Hesperus expedition.")

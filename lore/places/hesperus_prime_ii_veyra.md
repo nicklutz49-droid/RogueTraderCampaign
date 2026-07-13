@@ -164,6 +164,15 @@ depending entirely on how it has been handled by then
   combine militia under arms on the southern front, disowned by Grisholm.
   GM note: leadership faces not yet established — invent on first contact
   (a Kolvax patriarch and/or a field marshal-director both fit).
+- **The Greenvault & Dawnholt** — fertile, defensible valley in Tessene's
+  eastern foothills ("dawnward" = holy east), war-emptied, granted by the
+  Deepward King Day 25. **Dawnholt** founded Day 28: ~5,400 Calixian
+  colonists, prefab habs, plasma still, retainer-company garrison under
+  Armsmaster Ferro. Already a pilgrimage magnet for the Church of the
+  Return — a growing levy/labor pool and a theological flashpoint the
+  Missionaria will eventually inspect. GM note: the Greenvault sits in the
+  FOOTHILLS of the same range that hides the Deep Shrine (see GM secrets) —
+  the dynasty's colony and Veyra's greatest secret share a horizon.
 - The **Proclamation of Veyra** (Day 15) and its aftermath are logged in
   `state/campaign_log.md` Entries 004–005; per-power standings live in
   `state/world_state.md`. The Marguerite orthodoxy framing (worship to the

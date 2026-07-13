@@ -159,3 +159,40 @@ or price the Deed at Kolvax's destruction by Bray's own armies. RESUME HERE.
 future native regiments?). Vantery dead seeding a martyr-narrative for
 enemies of the Return. Tessene's test unread. Compact selling intel to
 unknown buyers. Vex-Han-9 at ten petitions. Locke unwatched since Day 8.
+
+## Entry 006 — Days 24–30: The Herald's Peace, Dawnholt, and the eve of the Kolvax campaign
+
+**Decisions:** No negotiation with Bray — ruling delivered: subjects, not
+counterparties; trade given as grace to the faithful ("serve and be fed").
+Announced Kolvax will be crushed using Vharadan forces alongside loyal
+armies. Colonists unloaded at a favored safe location. *Dutiful Son*
+dispatched to collect system resources for Veyra.
+
+**Events:**
+- Day 24: "Herald's Peace" ruling delivered to Bray's delegation in the
+  Long Gallery and broadcast planetwide. Marguerite's translation makes ore
+  shipments read as sacrament. Rooke filed an acid memorandum re: "given."
+- Day 25: the Deepward King granted the **Greenvault** valley (eastern
+  Tessene foothills, "dawnward" = holy) for the colony — grant folded into
+  his standing invitation: descend, be known, stand before the Deep.
+- Days 26–28: ~5,400 colonists landed; **DAWNHOLT** founded (their own
+  name). Ferro's retainer companies garrison it. Veyran pilgrims already
+  walking to the valley.
+- Day 29: *Dutiful Son* + *Pale Wager* escort departed on system circuit
+  (belt ore → gas giant fuel → return; first delivery ~3 weeks). Cole
+  flagged Kayne's proximity to Locke's wreck. Vex-Han-9 petitioned (11th)
+  to embark for "purely passive" survey of Prime IV in passing.
+- Day 30: Kolvax pocket fixed (~60k in old trench-works). Bray loyal
+  divisions converging. TESSENE PLEDGED 20,000 mountain troops to the
+  Herald's war — deliverable "when the Herald descends to receive them."
+  Karsh's vanguard drop-ready: "Do we jump with the Colonel, or for him?"
+
+**Decisions pending:** Shape of the Kolvax campaign — descend at Tessene
+then lead in person; straight to the front; command from orbit; or let the
+loyal bleed first. Plus: Vex-Han-9's passive survey — granted or denied.
+RESUME HERE.
+
+**Pending consequences:** Tessene's test awaits any descent. Dawnholt is a
+pilgrimage magnet (levy/labor pool forming; theological exposure). Kayne
+near the Bonefield with idle hands. First ore delivery due ~Day 50.
+Kolvax digs in. Locke's salvage clock runs (4–8 weeks from Day 8).
