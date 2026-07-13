@@ -13,12 +13,20 @@
 
 ## HESPERUS PRIME SYSTEM (current location)
 
-### Hesperus Prime II — "the lost world"
-- Habitable, inhabited by a pre-warp human lost colony, millions of souls
-- Fractured into feuding nation-states (vox intercepts confirm conflict)
+### Hesperus Prime II — "Veyra" (fleet in high orbit since Day 14)
+- ~38 million souls; pre-warp lost colony; language "Veyric" (drifted Low
+  Gothic — Marguerite can interpret, soon pass)
+- Tech: early industrial war — rail, artillery, dirigibles, gas shells,
+  crackle-vox; nothing that can see or touch orbit
+- Three powers (revealed via Locke's intercept gift + our own, Day 8–14):
+  **Concordat of Bray** (industrial oligarchy, winning slowly), **Kingdom
+  of Tessene** (martial mountain monarchy, losing slowly), **Shorelord
+  Compact** (neutral merchant harbors, profiteering)
+- **The Grey War** — 11 years of trench attrition, Bray vs Tessene
+- **Church of the Return** — planetwide faith: the Sky Fathers will return;
+  a descending ship IS the prophecy. No neutral arrival possible.
 - Potential: subjects, labor force, recruits — if handled right
-- Details of nations, tech level, culture: established in GM canon — see
-  `lore/places/hesperus_prime_ii_veyra.md` (unrevealed in play)
+- Full canon: `lore/places/hesperus_prime_ii_veyra.md` (deeper layers unrevealed)
 
 ### Hesperus Prime IV — "the ruin"
 - Geometric orbital debris: an ancient ruin in orbit, pre-Imperial or older
@@ -36,8 +44,10 @@
 - Deep canon: `lore/factions/the_silent_tithe.md`
 
 ## Off-screen clocks (GM: advance these between scenes)
-- **The Silent Tithe** — contact made Day 5; Locke's read of Aurelian now
-  forming from his answer to her hail: `lore/factions/the_silent_tithe.md`
+- **The Silent Tithe** — cordial contact Days 5–8; refueling courtesy
+  honored, claim uncontested; she gifted Veyra intelligence and offered an
+  open trade channel. UNWATCHED since Day 8 — she gleans her wreck and
+  builds her read of Aurelian: `lore/factions/the_silent_tithe.md`
 - **The Passage traffic** — more Imperial actors arrive in the Reach over
   the coming months; the wave is decided in canon:
   `lore/factions/imperial_actors.md`
@@ -45,6 +55,6 @@
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## Campaign date
-Day 5 of the Hesperus expedition. The flotilla is at long range off the
-gas giant's outer moons, Locke's hail unanswered. (Track elapsed time in
-log entries: "Day X of the Hesperus expedition.")
+Day 14 of the Hesperus expedition. The flotilla holds high orbit over
+Veyra; first-contact decision pending. (Track elapsed time in log entries:
+"Day X of the Hesperus expedition.")

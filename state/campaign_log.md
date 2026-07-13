@@ -53,3 +53,37 @@ while quietly testing her escape line, or other. RESUME HERE.
 **Pending consequences:** Locke has read our strength to the rivet; we know
 almost nothing of hers. The wreck's identity is unknown to us. Veyra and
 the Prime IV ruin wait untouched; Vex-Han-9's patience is spending down.
+
+## Entry 003 — Days 5–14 of the Hesperus Expedition
+
+**Decisions:** Accepted Locke's refueling courtesy while keeping full auspex
+watch on her; did not contest her salvage claim; whole fleet then departed
+for Veyra (Hesperus Prime II).
+
+**Events:**
+- Days 5–8: refueled at the gas giant's third moon. Auspex profile of the
+  *Silent Tithe*: overtuned drives (faster than anything we fly), gun decks
+  rebuilt into sensor/interceptor farms — "an ear with very good boots"
+  (Cole). Her wreck is a vast pre-storm Imperial SURVEY vessel; site ringed
+  with lawful Locke claim-buoys. Kayne asked twice to drift past it.
+- Day 8: Locke sent a free "sample of the house's wares": Veyra has three
+  powers (Concordat of Bray — industrial, winning; Kingdom of Tessene —
+  martial, losing; Shorelord Compact — neutral profiteers), an 11-year war
+  ("the Grey War"), and a planetary religion that says the sky-people WILL
+  RETURN. Her warning: "You won't be arriving. You'll be returning." Trade
+  channel offered. We lost eyes on her at departure.
+- Days 9–14: transit. Vex-Han-9 now at nine formal petitions re: the ruin.
+  Marguerite cracked Veyric (drifted Low Gothic) from intercepts — she can
+  interpret, soon pass. She is now the expedition's indispensable translator.
+- Day 14: high orbit over Veyra. Confirmed from orbit/intercepts: early
+  industrial tech (rail, artillery, dirigibles, gas shells, crackle-vox),
+  Grey Marches front visibly active, Church of the Return ubiquitous in
+  broadcasts on all sides.
+
+**Decisions pending:** First contact — Tessene (come as prophecy), Bray
+(come as contractor), the Compact (come as merchant), hold and listen, or
+other. RESUME HERE.
+
+**Pending consequences:** Locke gleans on unwatched, forming her read of us.
+Every contact choice on Veyra tilts the Grey War. Vex-Han-9's patience is a
+meter running down.

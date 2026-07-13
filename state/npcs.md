@@ -27,6 +27,8 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Officially the archivist; everyone suspects she reports to someone
 - Attitude: unreadable; has *opinions* about the usurpation she keeps
   behind her eyes
+- Day 14: cracked Veyric from orbit-intercepts in six days — now the
+  expedition's only capable translator; indispensable to all Veyra contact
 - Secret (GM): who she reports to is now decided in canon — see
   `lore/people/sister_marguerite.md` (unrevealed in play)
 
@@ -40,7 +42,10 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   outer moons; asserts lawful prior salvage claim
 - Hailed first at long range; polite, amused, frighteningly well-informed
   (quoted our gun count, muster, bow trim); offered refueling courtesy
-- Attitude: courteous, measuring, concedes nothing
+- Day 8: gifted us her intercept digest of Veyra (three powers, Grey War,
+  Return prophecy) as a free sample; standing offer: "the *Tithe* trades"
+- Attitude: cordial-commercial — we watered politely and watched her openly,
+  which she rated "the correct way to do both"
 - Deep canon: `lore/factions/the_silent_tithe.md`
 
 ## Enemies
