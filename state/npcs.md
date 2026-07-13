@@ -31,7 +31,17 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   `lore/people/sister_marguerite.md` (unrevealed in play)
 
 ## Factions & contacts
-*(none established yet beyond the flotilla)*
+
+### Lady-Captain Vespasia Locke — *Silent Tithe* (revealed Day 5)
+- Rogue Trader, House Locke of Malfi; minor but genuine Warrant
+- Ship: modified merchant raider, gun decks visibly rebuilt into sensor
+  arrays; fast-looking; ran dark near the gas giant for months
+- Salvaging a large ancient Imperial wreck ("the Bonefield") among the
+  outer moons; asserts lawful prior salvage claim
+- Hailed first at long range; polite, amused, frighteningly well-informed
+  (quoted our gun count, muster, bow trim); offered refueling courtesy
+- Attitude: courteous, measuring, concedes nothing
+- Deep canon: `lore/factions/the_silent_tithe.md`
 
 ## Enemies
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,
