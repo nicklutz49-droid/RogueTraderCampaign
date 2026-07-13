@@ -40,8 +40,11 @@ comfortable. He would rather die on a xenos world than end like them.
 - Displaced Vharadan relatives in the Calixis Sector nurse their grievance;
   possible agents sent after him
 - Old family retainers among the house troops are loyal to the *name*, not
-  yet to *him*
+  yet to *him* — MOVING: after the Greywell (Day 45), Ferro volunteered the
+  retainer companies to fight beside the house's dead
 - The 33rd's veterans call him Colonel — a bond, and a reminder of who he was
 
 ## Wounds / conditions
-None.
+- Shell-splinter scar along the jaw (the Greywell, Day 45) — taken in front
+  of forty witnesses while walking a gassed withdrawal; healed clean, worn
+  unhidden. On Veyra it is already scripture.

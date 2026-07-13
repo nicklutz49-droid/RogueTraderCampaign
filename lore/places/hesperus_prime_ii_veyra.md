@@ -160,10 +160,15 @@ depending entirely on how it has been handled by then
   Now a glass-lipped crater and a theological argument.
 - **Combine Kolvax** — Bray armaments/chemicals combine-house, the Grey
   War's chief profiteer; repudiated the Directorate's capitulation rather
-  than face peace, audit, and the loss of its arsenal monopoly. ~60,000
-  combine militia under arms on the southern front, disowned by Grisholm.
-  GM note: leadership faces not yet established — invent on first contact
-  (a Kolvax patriarch and/or a field marshal-director both fit).
+  than face peace, audit, and the loss of its arsenal monopoly. Rebellion
+  BROKEN Days 31–52 by Aurelian's orbital-mobility campaign ("the Long
+  Night": the Rail-Cut, the Greywell gas trap, decapitation raids).
+  **Marshal-Director Ansel Kolvax** — third son of the founding line,
+  competent, unsentimental about his own house's guilt — surrendered
+  28,000 to the Herald's justice alone. The combine's industrial estate
+  (arms plants, chemical works, foundries) sits forfeit and contested.
+  GM note: the combine's civilian patriarchs fled into Compact banking
+  havens with much of the liquid fortune — a future thread.
 - **The Greenvault & Dawnholt** — fertile, defensible valley in Tessene's
   eastern foothills ("dawnward" = holy east), war-emptied, granted by the
   Deepward King Day 25. **Dawnholt** founded Day 28: ~5,400 Calixian

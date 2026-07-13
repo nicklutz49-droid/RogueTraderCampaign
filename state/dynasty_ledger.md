@@ -1,7 +1,9 @@
 # HOUSE VHARADAN — DYNASTY LEDGER
 
 ## Meters (Desperate / Strained / Stable / Strong / Dominant)
-- **Profit Factor:** Strained — liquidated nearly everything to reach the Reach
+- **Profit Factor:** Stable — the sky-trade runs: belt ore and gas-giant
+  fuel feeding Bray's relit furnaces (first delivery Day 50); Veyra's
+  industry now runs through the dynasty
 - **Military Power:** Strained — three warships, one under-equipped regiment
 - **Reputation:** Strong — a world claimed with one voice and one lance
   (the Vantery Judgment, Day 20); the story will travel the Reach
@@ -14,9 +16,13 @@
 | *Dutiful Son* | Armed transport | Colonists landed Day 26–28; now the system resource circuit: belt ore → gas-giant fuel → Veyra (first delivery ~Day 50) |
 
 ## Ground forces
-- ~2,000 house troops, under-equipped but drilled to Guard standards
+- ~1,930 house troops after the Kolvax campaign (71 dead, 143 wounded —
+  the Greywell, Day 45; wounded recovering)
   - Loyal core: Aurelian's inducted 33rd Tempestus Scion veterans
-  - Uncertain element: old family retainers loyal to the name, not the man
+  - Retainer companies warming to the man since the Greywell (Ferro
+    volunteered them forward)
+- PENDING the Herald's justice: 28,000 surrendered Kolvax veterans —
+  potential Veyran regiments if absorbed
 
 ## Colonial assets
 - **SPENT Day 26–28: the one foothold is planted.** ~5,400 colonists landed

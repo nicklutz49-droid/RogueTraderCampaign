@@ -62,8 +62,12 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - **Calixis grudge** — the displaced Vharadans' response is in motion;
   decided in canon: `lore/factions/the_displaced_line.md`
 
+## New arrivals (system edge)
+- Two ragged freebooter/scavenger vessels loitering at the system's edge
+  since ~Day 50 — first of the Passage wave; keeping their distance
+
 ## Campaign date
-Day 30 of the Hesperus expedition. *Intemperance* over Veyra; *Dutiful
-Son* + *Pale Wager* on system resource circuit (first delivery ~Day 50);
-Kolvax campaign shape pending. (Track elapsed time in log entries: "Day X
-of the Hesperus expedition.")
+Day 52 of the Hesperus expedition. Kolvax pocket broken; 28,000 surrendered
+pending the Herald's justice; sky-trade circuit running (next delivery ~Day
+70). (Track elapsed time in log entries: "Day X of the Hesperus
+expedition.")

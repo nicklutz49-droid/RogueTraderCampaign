@@ -196,3 +196,44 @@ RESUME HERE.
 pilgrimage magnet (levy/labor pool forming; theological exposure). Kayne
 near the Bonefield with idle hands. First ore delivery due ~Day 50.
 Kolvax digs in. Locke's salvage clock runs (4–8 weeks from Day 8).
+
+## Entry 007 — Days 31–52: The Kolvax Campaign ("the Long Night")
+
+**Decision:** Orbital-mobility doctrine — Aurelian personally led all drops
+and assaults; loyalist (Bray) divisions pinned the pocket while the
+vanguard struck weak points at will.
+
+**Events:**
+- Days 31–35: orbital mapping; Bray divisions fixed the perimeter.
+  Vex-Han-9's petitions 12+ unanswered (now addressed "to any literate
+  officer").
+- Day 36: THE RAIL-CUT — night drop on the rear rail-head, Aurelian first
+  through the wire. Supply artery destroyed. (2 dead, 5 wounded.)
+- Days 37–48: the Long Night — command bunker decapitated, southern
+  magazine burned, terror feints. Kolvax militia deserting "to the sky,
+  not to Grisholm."
+- Day 45: THE GREYWELL — Kolvax gassed their own water-works onto our
+  second wave. **71 house troops dead, 143 wounded** (worst on the line
+  companies). Aurelian present throughout: gave his mask to a corporal,
+  walked the gas twice, took a shell-splinter to the jaw before forty
+  witnesses, finished the withdrawal. Legend: "the Herald bled for common
+  soldiers." FERRO volunteered the retainer companies for the next assault
+  — the retainers are starting to turn toward the man.
+- Day 50: first ore/fuel delivery landed at Grisholm under Church escort;
+  Bray's mills relit on Vharadan ore. **Profit Factor: Strained → Stable.**
+  Locke's signal via Var: she'll call "when his war is won — with wares."
+  Two freebooter scavenger vessels now loitering at system's edge.
+- Day 52: KOLVAX POCKET BROKE. ~11,000 deserters already in cages;
+  **Marshal-Director Ansel Kolvax** offers surrender of 28,000 — but ONLY
+  to the Herald's own justice, not Grisholm's. Kolvax combine's entire
+  industrial estate forfeit; Directorate transmitting legal claim to both
+  men and works.
+
+**Decisions pending:** The Herald's justice — absorb the 28,000 as Veyran
+regiments (Ansel spared or not); judge the officers publicly; hand all to
+Bray; split men from factories; or other. RESUME HERE.
+
+**Pending consequences:** Aurelian wounded (jaw, minor — scar). Regiment
+attrition real. Tessene's 20,000 and the King's test STILL undelivered —
+the court watches the Herald win without them. Freebooters multiplying at
+system edge. Locke's salvage nearly done. Kest's Missionaria months out.

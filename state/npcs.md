@@ -70,10 +70,12 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   buyers
 
 ## Enemies
-- **Combine Kolvax** (Veyra, Bray) — armaments house that owned the Vantery
-  Arsenal; repudiated the Directorate's surrender; ~60,000 combine militia
-  under arms on the southern front, disowned by Grisholm. In rebellion
-  against the Herald's peace as of Day 22
+- **Combine Kolvax** (Veyra, Bray) — BROKEN Day 52 after the Long Night
+  campaign. **Marshal-Director Ansel Kolvax** (third son of the founding
+  line, last officer the militia obey) surrendered 28,000 men "only to the
+  Herald's own justice, not Grisholm's." Combine industrial estate
+  forfeit; Directorate claims both men and works. Fate pending the
+  Herald's justice
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,
   bitter, resourceful enough to have sent an agent or assassin — their
   response is decided in canon, see `lore/factions/the_displaced_line.md`
