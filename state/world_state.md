@@ -13,7 +13,12 @@
 
 ## HESPERUS PRIME SYSTEM (current location)
 
-### Hesperus Prime II — "Veyra" (fleet in high orbit since Day 14)
+### Hesperus Prime II — "Veyra" (CLAIMED Day 15 — contested)
+**Status: claimed for the Emperor by Aurelian's planetwide proclamation
+(structures remain, all answer to him, war must cease). Tessene knelt
+(guns silent Day 17; invitation/test pending). Compact bowed (harbor +
+invoice; selling intel about us). Bray defies (resumed firing Day 18;
+crackdown on its own millennial risings). Enforcement decision pending.**
 - ~38 million souls; pre-warp lost colony; language "Veyric" (drifted Low
   Gothic — Marguerite can interpret, soon pass)
 - Tech: early industrial war — rail, artillery, dirigibles, gas shells,
@@ -55,6 +60,6 @@
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## Campaign date
-Day 14 of the Hesperus expedition. The flotilla holds high orbit over
-Veyra; first-contact decision pending. (Track elapsed time in log entries:
-"Day X of the Hesperus expedition.")
+Day 19 of the Hesperus expedition. The flotilla holds orbit over Veyra;
+the claim is spoken, Bray defies it, enforcement decision pending. (Track
+elapsed time in log entries: "Day X of the Hesperus expedition.")

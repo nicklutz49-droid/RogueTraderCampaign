@@ -21,7 +21,10 @@
 - Supplies and colonists sufficient for ONE serious attempt at a foothold
 
 ## Holdings
-None yet. The Reach awaits.
+- **Veyra (Hesperus Prime II)** — claimed planetwide in the Emperor's name,
+  Day 15. CONTESTED: Tessene submitted, the Compact acknowledged (nominally),
+  Bray defies. Claim is prestige-loaded: enforced it makes the dynasty;
+  abandoned it marks the name across the Reach.
 
 ## Debts & obligations
 - House finances nearly exhausted by the expedition

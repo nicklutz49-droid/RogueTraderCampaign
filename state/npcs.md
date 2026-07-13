@@ -29,6 +29,10 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   behind her eyes
 - Day 14: cracked Veyric from orbit-intercepts in six days — now the
   expedition's only capable translator; indispensable to all Veyra contact
+- Day 15: drafted the Proclamation of Veyra; drew her one line — worship
+  flows to the Emperor, Aurelian is herald/vicar, never a god ("no pyre in
+  the Imperium can be lit under it"). Aurelian accepted. First open
+  assertion of will; attitude subtly warmer since
 - Secret (GM): who she reports to is now decided in canon — see
   `lore/people/sister_marguerite.md` (unrevealed in play)
 
@@ -47,6 +51,15 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Attitude: cordial-commercial — we watered politely and watched her openly,
   which she rated "the correct way to do both"
 - Deep canon: `lore/factions/the_silent_tithe.md`
+
+### Veyran powers (institutional contacts, faces not yet met)
+- **The Deepward King of Tessene** — knelt Day 17; invited the Herald "to
+  descend and be known... before the Deep" (test embedded in submission)
+- **The Directorate of Bray** — secular oligarchs; refused the claim,
+  resumed firing Day 18; suppressing their own believing underclass
+- **The Shorelords of the Compact** — bowed instantly and profitably;
+  offered harbor at Cantlemere; selling intelligence about us to unknown
+  buyers
 
 ## Enemies
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,

@@ -87,3 +87,40 @@ other. RESUME HERE.
 **Pending consequences:** Locke gleans on unwatched, forming her read of us.
 Every contact choice on Veyra tilts the Grey War. Vex-Han-9's patience is a
 meter running down.
+
+## Entry 004 — Days 15–19: The Proclamation of Veyra
+
+**Decision:** Aurelian claimed Veyra planetwide — came as the prophecy,
+preached the God-Emperor, claimed ownership in His name. Terms: all
+structures remain (crowns, councils, altars) but all answer to him; the
+Grey War ceases. CRITICAL NUANCE (Marguerite's insistence, accepted): the
+worship flows to the EMPEROR; Aurelian is styled His herald/vicar, never a
+god — deliberately pyre-proof phrasing.
+
+**Events:**
+- Day 15: proclamation broadcast planetwide in liturgical Veyric;
+  *Intemperance* visible in low orbit; lighter flyovers of three capitals.
+- Front-line ceasefires broke out spontaneously; Church of the Return split
+  into salvation/judgment readings — both centered on Aurelian.
+- Day 17: TESSENE KNELT — royal decree silenced their guns; the Deepward
+  King invites the Herald "to descend and be known... before the Deep"
+  (submission + embedded theological test).
+- COMPACT BOWED — instant gilded acknowledgment + offer of harbor and
+  invoice; Cantlemere exchanges trading on peace; someone buying coded
+  intelligence about us.
+- Day 18: BRAY REFUSED — secular reply to "commander of the foreign
+  vessel," requested "accredited channels," then resumed firing on schedule
+  in front of the whole planet. Millennial risings in Bray tenements;
+  Directorate mass arrests — making our faithful for us.
+- Cole: with 2,000 troops, enforcement must teach 38 million at once.
+
+**Decisions pending:** How to answer Bray's defiance and Tessene's
+invitation — lance strike demonstration; descend to Tessene in person;
+command a Compact embargo of Bray; or negotiate via accredited channels
+(Hunger cost flagged). RESUME HERE.
+
+**Pending consequences:** The claim is public across the Reach's future
+traffic — prestige if enforced, farce if not. Tessene's "test" unresolved.
+Compact selling information about us to unknown buyers. Bray interior
+unstable. Kest's Missionaria arrives in months to find a planet already
+mid-conversion. Locke unwatched at her wreck since Day 8.
