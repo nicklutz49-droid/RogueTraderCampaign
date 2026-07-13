@@ -18,8 +18,8 @@
 | *Dutiful Son* | Armed transport | Colonists landed Day 26–28; now the system resource circuit: belt ore → gas-giant fuel → Veyra (first delivery ~Day 50) |
 
 ## Ground forces
-- ~1,930 house troops after the Kolvax campaign (71 dead, 143 wounded —
-  the Greywell, Day 45; wounded recovering)
+- ~1,920 house troops (71 dead at the Greywell; 6 dead at the Anchor
+  boarding Days 79–82; wounded recovering)
   - Loyal core: Aurelian's inducted 33rd Tempestus Scion veterans
   - Retainer companies warming to the man since the Greywell (Ferro
     volunteered them forward)

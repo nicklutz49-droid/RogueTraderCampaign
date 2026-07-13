@@ -335,3 +335,49 @@ Locke's partnership hook on the ruin annexes is baited. Vex-Han-9's Ruuk
 threshold (boarding + confirmation) approaches with the expedition.
 Quillon's Mark's principal inbound eventually. Kest's Missionaria months
 out — will find an orthodox-framed planetary conversion.
+
+## Entry 010 — Days 76–83: "The Emperor Protects" and the boarding of the Anchor
+
+**Decisions:** Answered King Ossian's question with "The Emperor protects"
+(mystery sealed as scripture; the wardens' duty reframed as the Emperor's
+service). Proceeded to board the ruin under Cole's phased doctrine;
+Aurelian personally boarded with the second wave.
+
+**Events:**
+- Carvenhold: Ossian accepted the answer and will not ask again; "The
+  Emperor protects" entered the Deep-rite liturgy. Marguerite tacitly
+  approved.
+- Days 76–78, THE RING: every surface glyph-carved; pattern-match against
+  Vex-Han-9's data-lattice confirmed — builders named in play: **the
+  KARYX**. Material resists all tools; severed pieces go inert ("stop
+  doing anything"). Interior spaces measure larger than exteriors (400m of
+  tether in a 40m fragment).
+- Days 79–82, THE ANCHOR (outer shell): no air but sourceless polite
+  gravity; wrong geometry (tether discipline saved lives twice). Breaching
+  a sealed aperture woke **guardian constructs** — crystalline faceted
+  "maintenance" that treats intruders as debris; do not pursue beyond the
+  hull. Massed fire on joint-seams kills them (learned at cost). NULL-ZONE
+  encountered near the deep structure: vox/auspex dead, Vex's esoteric
+  instruments stopped (as his theory predicts). Aurelian's presence held
+  the line (Lead from the Front); fighting withdrawal, all wounded
+  recovered.
+- **Casualties: 6 dead** (4 armsmen, 1 Scion, 1 adept), 11 wounded.
+- Ilyana (observing from the ship): "It is quieter inside the stillness,
+  Lord-Captain. Like held breath."
+- Day 83: first partial translation (Vex's lattice + Marguerite's
+  grammar): "...the sea is made still... the watch [is kept/continues]...
+  that which is stilled [remains/must remain]..." — SAME IDIOM as the Deep
+  Shrine's words beneath the Carven Range. Only Aurelian and Marguerite
+  have connected this.
+- Vex-Han-9 petitions for DEEP PENETRATION past the null-zones to prove
+  function: "One more door."
+
+**Decisions pending:** Grant the deep sortie; open partnership with Locke
+for Vortigern's fourth-planet marginalia first; or seal the site and
+consolidate the empire. RESUME HERE.
+
+**Pending consequences:** Constructs escalate with depth (learned pattern).
+Marguerite now holds the mountain-ruin connection alongside Aurelian.
+Locke's partnership hook live and priced. Kest's Missionaria approaching on
+the traffic clock. Quillon's Mark's principal inbound eventually. Auxilia
+equipping continues (~months).

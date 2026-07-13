@@ -34,9 +34,11 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   whose glyphs exactly match the ruin's; translated fragment: "a sea made
   still"; believes the ruin is an instrument causing the Reach's calm.
   CO-TITLE COMPACT signed; contraband legalized under the Warrant
-- Boarding expedition in phased preparation (Cole doctrine: ring first,
-  volunteers, tethers, no pulse-crest sorties). Kept away from the Deep
-  Shrine by Aurelian's deliberate order
+- Boardings executed Days 76–82: the Karyx named, constructs fought,
+  null-zone behavior "as aetheric architecture predicts." Lost one adept.
+  Now petitions for DEEP PENETRATION to prove function ("One more door") —
+  answer pending. Kept away from the Deep Shrine by Aurelian's deliberate
+  order
 
 ### Sister Dialogous Marguerite
 - Officially the archivist; everyone suspects she reports to someone
@@ -51,6 +53,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Day ~74: present at the Deep Shrine; heard and translated the ancient
   machine-voice ("...the watch continues. Anticipate return."). Visibly
   shaken; her conclusions — and what she does with them — unknown
+- Day 83: co-translated the Anchor's outer glyphs with Vex-Han-9's lattice
+  ("the sea is made still... that which is stilled must remain") — she and
+  Aurelian alone hold the mountain-ruin connection
 - Secret (GM): who she reports to is now decided in canon — see
   `lore/people/sister_marguerite.md` (unrevealed in play)
 
@@ -84,8 +89,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   the **Deep Shrine** (ancient metal vault, Undying Lamps, a machine-voice
   in archaic Gothic) CHANGED ITS ANSWER when Aurelian spoke name and
   Warrant: "...the watch continues. Anticipate return." Tessene now
-  believes utterly; the 20,000 delivered and sworn. PENDING: his private
-  question — "What did it say?"
+  believes utterly; the 20,000 delivered and sworn. His question answered
+  Day 75: "The Emperor protects" — accepted as scripture; he will not ask
+  again; the phrase entered the Deep-rite liturgy
 - **The Directorate of Bray** — secular oligarchs; defied the claim until
   the Vantery Judgment (Day 20), capitulated Day 22: ceasefire ordered,
   Deed of Instrument offered, contingent on fuel/ore supply from the sky.

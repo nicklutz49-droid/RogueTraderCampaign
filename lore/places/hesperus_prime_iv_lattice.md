@@ -101,6 +101,32 @@ equipment, nerve).
   not the Administratum. The party can become the third holders of this
   secret in two millennia.
 
+## Canon established in play (Days 76–83)
+
+- **Layers 1–2 revealed.** The ring boarded (Days 76–78): glyph fields
+  imaged; the builders named **the Karyx** in play via Vex-Han-9's
+  lattice-match; severed material goes inert; interior/exterior measure
+  mismatch experienced (400m tether in a 40m fragment). The Anchor's outer
+  shell boarded (Days 79–82): sourceless polite gravity, wrong geometry,
+  guardian constructs engaged (killable by massed fire on joint-seams;
+  ceased pursuit at the hull), outer null-zone encountered near the deep
+  structure. Cost: 6 dead, 11 wounded. Aurelian personally present.
+- **First glyph translation** (Vex-Han-9's lattice + Marguerite's grammar):
+  *"the sea is made still / the watch is kept–continues / that which is
+  stilled remains–must remain."* Aurelian and Marguerite privately
+  connected the idiom to the Deep Shrine's voice
+  (`lore/places/hesperus_prime_ii_veyra.md`) — the mountain and the ruin
+  speak the same language. GM note: this connection is TRUE canon (both
+  are ancient human-adjacent... no — the Shrine is DAoT human, the ruin is
+  Karyx; the shared idiom is a TRANSLATION artifact of Marguerite's High
+  Gothic rendering plus genuine conceptual overlap: both machines keep a
+  "watch." Do not conflate the builders. Let the party chase the echo;
+  the truth of the difference is a future revelation.)
+- **Layer 3 NOT yet breached**: Vex-Han-9's deep-penetration petition
+  pending. Granting it → he confirms function → his Ruuk signal fires
+  (`lore/people/vex_han_9.md`). Constructs escalate with depth per the
+  hazard table.
+
 ## GM secrets
 
 **Reveal these slowly, over many sessions, in the layer order above.**

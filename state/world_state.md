@@ -36,12 +36,17 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - Potential: subjects, labor force, recruits — if handled right
 - Full canon: `lore/places/hesperus_prime_ii_veyra.md` (deeper layers unrevealed)
 
-### Hesperus Prime IV — "the ruin" (passive survey Days 57–63)
-- REVEALED IN PLAY: artificial xenos ring, tens of millennia pre-Imperial;
-  crystalline-metallic (NULL REFERENT); one intact fragment kilometers
-  long; rhythmic power pulse, period 31 hours — not dead, not awake;
-  auspex geometry inconsistent between passes
-- Vex-Han-9 petitions to board; deeper nature/dangers: GM canon at
+### Hesperus Prime IV — the Karyx ruin (BOARDED Days 76–82)
+- REVEALED IN PLAY: builders named the **Karyx** (glyph-match with
+  Vex-Han-9's lattice); ring glyph-carved throughout; material inert when
+  severed; interiors larger than exteriors; the intact mass ("the Anchor")
+  has sourceless polite gravity, wrong geometry, **guardian constructs**
+  (wake on intrusion, killable by massed fire on joint-seams, don't pursue
+  beyond the hull), **null-zones** (vox/auspex/psyker-blind), 31-hour pulse
+- First partial glyph translation: "the sea is made still... the watch
+  continues... that which is stilled must remain" — same idiom as the Deep
+  Shrine's voice (connection known only to Aurelian & Marguerite)
+- Vex-Han-9 petitions for deep penetration; deeper truths: GM canon at
   `lore/places/hesperus_prime_iv_lattice.md` (unrevealed)
 
 ### Outer system — the *Silent Tithe* (identity revealed in play, Day 5)
@@ -58,9 +63,10 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
   her prospectus (three living colonies' routes + "regional stability"
   annexes). Parley and the Vor Kaas first-claim trap both live:
   `lore/factions/the_silent_tithe.md`
-- **Vex-Han-9's Ruuk clock** — NOT started: his signal threshold is
-  boarding the intact fragment and confirming function
-  (`lore/people/vex_han_9.md`). Boarding petition pending
+- **Vex-Han-9's Ruuk clock** — NOT YET started: he has boarded but has not
+  confirmed FUNCTION; the deep-structure sortie he now petitions for would
+  confirm it — and fire his signal (`lore/people/vex_han_9.md`). GM: track
+  this on any grant of deep access
 - **Tessene's test** — PASSED (Days 68–75): the Deep Shrine acknowledged
   Aurelian ("anticipate return"); 20,000 delivered and sworn; the King's
   private question pending
@@ -87,6 +93,7 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
   reach
 
 ## Campaign date
-Day 75 of the Hesperus expedition. Aurelian at Carvenhold; the Auxilia
-sworn; King Ossian's private question awaits its answer. (Track elapsed
-time in log entries: "Day X of the Hesperus expedition.")
+Day 83 of the Hesperus expedition. *Intemperance* off Hesperus Prime IV
+after the first boardings; deep-sortie / Locke-partnership / consolidation
+decision pending. (Track elapsed time in log entries: "Day X of the
+Hesperus expedition.")
