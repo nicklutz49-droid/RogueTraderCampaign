@@ -184,6 +184,23 @@ depending entirely on how it has been handled by then
   Emperor; Aurelian as herald/vicar only) is now load-bearing public canon
   on Veyra — Kest's Missionaria will find a planet mid-conversion to a
   *technically orthodox* creed (`lore/factions/imperial_actors.md`).
+- **Carvenhold** — Tessene's high capital in the Carven Range; seat of
+  **King Ossian IV, the Deepward King** (dutiful, intelligent, a warden
+  who has never had the key to his own door).
+- **The test — PASSED (Days 68–75).** The Deep Shrine's existence is now
+  play-revealed (GM secret layer 2): beneath the Carven Range, a vault of
+  ancient worked metal, the Undying Lamps, and a looping machine-voice in
+  archaic Gothic that kings answer by rote. When Aurelian answered with
+  name and Warrant in High Gothic, **the Deep changed its answer** — lamps
+  brightened, an unheard chime, and new words: *"...the watch continues.
+  Anticipate return."* Still UNREVEALED: the regalia's nature (layer 3)
+  and the ark itself (layer 4). GM note: "anticipate return" is the
+  ship-system's own idiom — decide its precise machine-meaning when layer
+  4 approaches; do not resolve early.
+- **The First & Second Veyran Auxilia** — 20,000 Tessene highland veterans
+  sworn to the Herald in the Deep's shadow (~Day 74); Karsh's cadre
+  drilling; equipped from the retooled Kolvax works (autogun-pattern,
+  cheap and expendable by explicit doctrine).
 
 ## GM secrets
 

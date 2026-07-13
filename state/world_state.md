@@ -61,8 +61,12 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - **Vex-Han-9's Ruuk clock** — NOT started: his signal threshold is
   boarding the intact fragment and confirming function
   (`lore/people/vex_han_9.md`). Boarding petition pending
-- **Tessene's test** — the 20,000 and the descent still undelivered; court
-  pressure rising as the Herald wins without them
+- **Tessene's test** — PASSED (Days 68–75): the Deep Shrine acknowledged
+  Aurelian ("anticipate return"); 20,000 delivered and sworn; the King's
+  private question pending
+- **Marguerite's knowledge** — she has now heard a pre-Imperial machine
+  speak beneath the Carven Range; what she concludes or reports is a live
+  unknown
 - **The Passage traffic** — more Imperial actors arrive in the Reach over
   the coming months; the wave is decided in canon:
   `lore/factions/imperial_actors.md`
@@ -70,14 +74,19 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## New arrivals (system edge)
-- FOUR scavenger hulls at system edge by Day 60. *Beggar's Benefit*
-  petitioned Day 58 for scavenge/prospect rights, offering 1-in-5 tithe
-  (first stranger to ask the Herald's permission — precedent pending)
-- One "scavenger" flies with professional drive discipline and listens
-  like Locke — somebody's scout, unidentified (Cole flagged Day 60)
+- Scavenger hulls under tithe-charter (*Beggar's Benefit* sealed Day 65,
+  1-in-5) — the Herald's charter system founded; Locke's Ears police it
+- Scout *Quillon's Mark*: hailed Day 65, answered evasively, burned for
+  the Passage. "My principal will call properly." Principal unknown,
+  inbound eventually, well-informed
+
+## The wider Reach (routes held)
+- Certified pre-storm approach routes to three old colonies: **Sabra's
+  Rest**, **Cinderfall**, **Meloria** (at least one believed living) —
+  exclusive exploitation rights; expansion targets when the fleet can
+  reach
 
 ## Campaign date
-Day 64 of the Hesperus expedition. The Judgment rendered; the *Silent
-Tithe* inbound to Veyra for parley; boarding petition, tithe petition, and
-the disciplined scout all pending. (Track elapsed time in log entries:
-"Day X of the Hesperus expedition.")
+Day 75 of the Hesperus expedition. Aurelian at Carvenhold; the Auxilia
+sworn; King Ossian's private question awaits its answer. (Track elapsed
+time in log entries: "Day X of the Hesperus expedition.")

@@ -281,3 +281,57 @@ with liquid fortune. "Soldiers not masters" doctrine unsettling every
 oligarch. Tessene's test and 20,000 still undelivered — court pressure
 growing. Vex-Han-9's Ruuk-signal threshold = boarding + confirmation (has
 NOT signaled). Kest's Missionaria on the traffic clock.
+
+## Entry 009 — Days 65–75: The toll, the table, and the Deep
+
+**Decisions:** Hailed the scout openly. Priced Vex-Han-9's expedition at
+full disclosure + co-title. Parleyed aboard the *Silent Tithe* with both
+Locke and Ilyana at the table. Called in Tessene's 20,000 (forcing the
+descent and the test) with cheap expendable equipment doctrine.
+
+**Events:**
+- Day 65: scout *Quillon's Mark* hailed; answered laconically ("independent
+  survey, under charter"), then burned for the Passage. Parting line: "My
+  principal will call properly." Someone heavy is coming, informed.
+  *Beggar's Benefit* tithe-charter sealed (1-in-5) — first tax paid to the
+  Herald as regional landlord.
+- Day 66: VEX-HAN-9'S DISCLOSURE (private, priced): censured by the Lathes
+  for "aetheric architecture" heterodoxy (ancient xenos engineered local
+  warp conditions); possesses an unmanifested Cold Trade xenos data-lattice
+  whose glyphs EXACTLY match the ruin's; one translated fragment: "A SEA
+  MADE STILL." He believes the ruin is an instrument causing the Reach's
+  calm. Co-title compact signed; his contraband legalized under the
+  Warrant. Boarding expedition now in phased preparation (ring first,
+  volunteers, tethers, no pulse-crest sorties).
+- Day 67: THE PARLEY (aboard her hull, three-cornered): bought certified
+  copies + exclusive exploitation rights to pre-storm routes to **Sabra's
+  Rest, Cinderfall, Meloria**; title registered through House Vor Kaas
+  (clause honored; Ilyana's star rises). Locke installed as the "Herald's
+  Ears" — customs-house/listening-post of Hesperus Prime on tithe-share;
+  her salvage claims recognized. She withheld the "regional stability"
+  annexes: "Vortigern's final marginalia... concerning the fourth planet.
+  Partnership, not purchase. Ask me again when you've been aboard your
+  ruin."
+- Days 68–75: THE DESCENT AND THE TEST at **Carvenhold**. Beneath the
+  Carven Range: the **Deep Shrine** — vast ancient worked metal, the
+  "Undying Lamps," and a looping machine-voice the kings have answered
+  by rote for 15,000 years. It speaks archaic Gothic: "identify... by what
+  authority... the watch continues." Aurelian answered with name and
+  Warrant in High Gothic — THE DEEP CHANGED ITS ANSWER (lamps brightened,
+  unheard chime, new words: "...the watch continues. Anticipate return.").
+  Tessene now BELIEVES. Marguerite shaken.
+- 20,000 highland veterans sworn in the Deep's shadow; First and Second
+  Veyran Auxilia forming under Karsh's cadre; Kolvax works retooling for
+  autogun-pattern mass equipment (full kit in months).
+  **Military Power: Strained → Strong.**
+- **King Ossian IV's private question — pending Aurelian's answer:** "What
+  did it say?" (truth / shaped holy translation / words belong to the
+  Emperor alone). RESUME HERE.
+
+**Pending consequences:** The Deep acknowledged something and anticipates
+"return" — meaning unknown to all present. Marguerite has heard a
+pre-Imperial machine speak; her opinions (and reports, if any) unknown.
+Locke's partnership hook on the ruin annexes is baited. Vex-Han-9's Ruuk
+threshold (boarding + confirmation) approaches with the expedition.
+Quillon's Mark's principal inbound eventually. Kest's Missionaria months
+out — will find an orthodox-framed planetary conversion.

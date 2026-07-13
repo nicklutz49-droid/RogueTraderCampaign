@@ -4,7 +4,9 @@
 - **Profit Factor:** Stable — the sky-trade runs: belt ore and gas-giant
   fuel feeding Bray's relit furnaces (first delivery Day 50); Veyra's
   industry now runs through the dynasty
-- **Military Power:** Strained — three warships, one under-equipped regiment
+- **Military Power:** Strong — three warships, the house regiment, and
+  20,000 sworn Tessene highland veterans (First & Second Veyran Auxilia,
+  forming; autogun-pattern equipment from the Kolvax works in months)
 - **Reputation:** Strong — a world claimed with one voice and one lance
   (the Vantery Judgment, Day 20); the story will travel the Reach
 
@@ -24,6 +26,9 @@
 - **Kolvax labor battalions**: 28,000 pardoned veterans in probation labor
   (rails, Greywell, the Marches) with an earned path back to arms — a
   future levy pool under the Herald's word
+- **First & Second Veyran Auxilia** — 20,000 Tessene highland veterans,
+  sworn in the Deep's shadow (Day ~74); Karsh's Scion/line cadre drilling;
+  equipping via retooled Kolvax works (cheap, expendable, autogun-pattern)
 
 ## Colonial assets
 - **SPENT Day 26–28: the one foothold is planted.** ~5,400 colonists landed
@@ -43,6 +48,19 @@
   escheated to the dynasty Day 56; leased to Directorate tenant-management
   under tithe. War-damaged but real: the dynasty now owns heavy industry.
 
+## Trade & compacts
+- **Sky-trade grid**: belt ore + gas-giant fuel → Bray furnaces (running)
+- **Tithe-charters**: *Beggar's Benefit* (1-in-5); charter system founded
+- **The Herald's Ears**: Locke/*Silent Tithe* as customs-house and
+  listening-post of Hesperus Prime, on tithe-share; her salvage claims
+  recognized
+- **Chart rights**: certified pre-storm routes to Sabra's Rest, Cinderfall,
+  Meloria — exclusive exploitation rights, title via House Vor Kaas
+- **Ruin compact**: co-title with Vex-Han-9 on all Hesperus Prime IV
+  findings; his data-lattice legalized under the Warrant
+
 ## Debts & obligations
-- House finances nearly exhausted by the expedition
-- Navigator House Vor Kaas expects their investment in Ilyana to pay off
+- House finances nearly exhausted by the expedition (easing: trade grid,
+  Kolvax estate tithes)
+- Navigator House Vor Kaas expects their investment in Ilyana to pay off —
+  PAYING: first-claim clause honored via the Locke chart registration

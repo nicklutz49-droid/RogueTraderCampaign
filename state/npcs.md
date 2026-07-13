@@ -12,6 +12,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Attitude: INVESTING — Day 64 she privately disclosed the Vor Kaas
   first-claim clause on Passage charts before the Locke parley ("I would
   rather serve a lord who wins than a contract that does")
+- Day 67: clause honored via the Locke chart registration — her house's
+  gamble visibly paying, her standing with both house and Lord-Captain
+  risen
 - Brought the flotilla through the rough Vortigern Passage successfully
 
 ### First Officer Brannt Cole
@@ -24,12 +27,16 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Tech-priest; obsessed with rumors of pre-Imperial technology in the Reach
 - Attitude: cooperative while the expedition serves his research
 - Currently fixated on the ancient orbital ruin at Hesperus Prime IV
-- Passive survey GRANTED and completed Days 57–63: ring artificial/xenos,
-  NULL REFERENT composition, intact km-long fragment, 31-HOUR POWER PULSE
-  ("not dead, neither is it awake")
-- Now petitions for a BOARDING expedition — offered to waive his adepts'
-  favor-debts (unprecedented; Usurper's Instinct flags he wants this more
-  than his contract explains). Answer pending
+- Passive survey completed Days 57–63: ring artificial/xenos, NULL REFERENT
+  composition, intact km-long fragment, 31-HOUR POWER PULSE
+- Day 66 DISCLOSURE (priced by Aurelian): censured by the Lathes for
+  "aetheric architecture" heterodoxy; holds a Cold Trade xenos data-lattice
+  whose glyphs exactly match the ruin's; translated fragment: "a sea made
+  still"; believes the ruin is an instrument causing the Reach's calm.
+  CO-TITLE COMPACT signed; contraband legalized under the Warrant
+- Boarding expedition in phased preparation (Cole doctrine: ring first,
+  volunteers, tethers, no pulse-crest sorties). Kept away from the Deep
+  Shrine by Aurelian's deliberate order
 
 ### Sister Dialogous Marguerite
 - Officially the archivist; everyone suspects she reports to someone
@@ -41,6 +48,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   flows to the Emperor, Aurelian is herald/vicar, never a god ("no pyre in
   the Imperium can be lit under it"). Aurelian accepted. First open
   assertion of will; attitude subtly warmer since
+- Day ~74: present at the Deep Shrine; heard and translated the ancient
+  machine-voice ("...the watch continues. Anticipate return."). Visibly
+  shaken; her conclusions — and what she does with them — unknown
 - Secret (GM): who she reports to is now decided in canon — see
   `lore/people/sister_marguerite.md` (unrevealed in play)
 
@@ -56,19 +66,26 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   (quoted our gun count, muster, bow trim); offered refueling courtesy
 - Day 8: gifted us her intercept digest of Veyra (three powers, Grey War,
   Return prophecy) as a free sample; standing offer: "the *Tithe* trades"
-- Day 64: salvage COMPLETE; inbound to Veyra offering pre-storm routes to
-  THREE LIVING COLONIES (approach solutions) + "survey annexes touching
-  regional stability." Parley pending
-- Attitude: cordial-commercial — we watered politely and watched her openly,
-  which she rated "the correct way to do both"
+- Day 67 PARLEY (her hull, three-cornered with Ilyana): sold certified
+  route-copies (Sabra's Rest, Cinderfall, Meloria) + exclusive exploitation
+  rights, titled via House Vor Kaas; installed as the **Herald's Ears**
+  (customs/listening-post on tithe-share); salvage claims recognized
+- WITHHELD: "Vortigern's final marginalia... concerning the fourth planet"
+  — offered only for "partnership, not purchase... ask me again when
+  you've been aboard your ruin"
+- Attitude: partner-leaning; rated our transparency "expensive" and
+  respected it
 - Deep canon: `lore/factions/the_silent_tithe.md`
 
 ### Veyran powers (institutional contacts, faces not yet met)
-- **The Deepward King of Tessene** — knelt Day 17; invited the Herald "to
-  descend and be known... before the Deep" (test embedded in submission);
-  Day 25 granted the Greenvault for our colony ("dawnward" honor); Day 30
-  pledged 20,000 mountain troops — deliverable when the Herald descends.
-  Every gift renews the invitation
+- **King Ossian IV, the Deepward King of Tessene** — knelt Day 17; granted
+  the Greenvault (Day 25); pledged 20,000 (Day 30). Days 68–75: received
+  the Herald at **Carvenhold**; the TEST PASSED — beneath the Carven Range
+  the **Deep Shrine** (ancient metal vault, Undying Lamps, a machine-voice
+  in archaic Gothic) CHANGED ITS ANSWER when Aurelian spoke name and
+  Warrant: "...the watch continues. Anticipate return." Tessene now
+  believes utterly; the 20,000 delivered and sworn. PENDING: his private
+  question — "What did it say?"
 - **The Directorate of Bray** — secular oligarchs; defied the claim until
   the Vantery Judgment (Day 20), capitulated Day 22: ceasefire ordered,
   Deed of Instrument offered, contingent on fuel/ore supply from the sky.
