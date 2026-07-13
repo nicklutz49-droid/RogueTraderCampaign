@@ -149,6 +149,28 @@ Church of the Return either a miracle of providence or a heresy to burn,
 depending entirely on how it has been handled by then
 (`lore/factions/imperial_actors.md`).
 
+## Canon established in play (Days 15–23)
+
+- **Grisholm** — capital of the Concordat of Bray; riverine industrial
+  metropolis, seat of the Directorate; tenement rows thick with suppressed
+  Church of the Return believers (now risen openly since the Proclamation).
+- **The Vantery Arsenal** — Bray's great shell-works, gas-plant, and six-way
+  rail junction, 20 km upriver of Grisholm; owned by Combine Kolvax.
+  DESTROYED Day 20 by lance strike (the "Vantery Judgment"), ~4,000 dead.
+  Now a glass-lipped crater and a theological argument.
+- **Combine Kolvax** — Bray armaments/chemicals combine-house, the Grey
+  War's chief profiteer; repudiated the Directorate's capitulation rather
+  than face peace, audit, and the loss of its arsenal monopoly. ~60,000
+  combine militia under arms on the southern front, disowned by Grisholm.
+  GM note: leadership faces not yet established — invent on first contact
+  (a Kolvax patriarch and/or a field marshal-director both fit).
+- The **Proclamation of Veyra** (Day 15) and its aftermath are logged in
+  `state/campaign_log.md` Entries 004–005; per-power standings live in
+  `state/world_state.md`. The Marguerite orthodoxy framing (worship to the
+  Emperor; Aurelian as herald/vicar only) is now load-bearing public canon
+  on Veyra — Kest's Missionaria will find a planet mid-conversion to a
+  *technically orthodox* creed (`lore/factions/imperial_actors.md`).
+
 ## GM secrets
 
 - **The Deep Shrine (LOCKED).** Beneath the **Carven Range** in Tessene lies

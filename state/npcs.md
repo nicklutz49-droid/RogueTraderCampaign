@@ -55,13 +55,19 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 ### Veyran powers (institutional contacts, faces not yet met)
 - **The Deepward King of Tessene** — knelt Day 17; invited the Herald "to
   descend and be known... before the Deep" (test embedded in submission)
-- **The Directorate of Bray** — secular oligarchs; refused the claim,
-  resumed firing Day 18; suppressing their own believing underclass
+- **The Directorate of Bray** — secular oligarchs; defied the claim until
+  the Vantery Judgment (Day 20), capitulated Day 22: ceasefire ordered,
+  Deed of Instrument offered, contingent on fuel/ore supply from the sky.
+  Attitude: submission as contract; fear doing arithmetic
 - **The Shorelords of the Compact** — bowed instantly and profitably;
   offered harbor at Cantlemere; selling intelligence about us to unknown
   buyers
 
 ## Enemies
+- **Combine Kolvax** (Veyra, Bray) — armaments house that owned the Vantery
+  Arsenal; repudiated the Directorate's surrender; ~60,000 combine militia
+  under arms on the southern front, disowned by Grisholm. In rebellion
+  against the Herald's peace as of Day 22
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,
   bitter, resourceful enough to have sent an agent or assassin — their
   response is decided in canon, see `lore/factions/the_displaced_line.md`

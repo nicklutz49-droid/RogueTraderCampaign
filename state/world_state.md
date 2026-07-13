@@ -13,12 +13,13 @@
 
 ## HESPERUS PRIME SYSTEM (current location)
 
-### Hesperus Prime II — "Veyra" (CLAIMED Day 15 — contested)
-**Status: claimed for the Emperor by Aurelian's planetwide proclamation
-(structures remain, all answer to him, war must cease). Tessene knelt
-(guns silent Day 17; invitation/test pending). Compact bowed (harbor +
-invoice; selling intel about us). Bray defies (resumed firing Day 18;
-crackdown on its own millennial risings). Enforcement decision pending.**
+### Hesperus Prime II — "Veyra" (CLAIMED Day 15; enforced Day 20)
+**Status: the Grey War is silent (first time in 11 years). Tessene knelt
+(invitation/test pending at the mountain capital). Compact acknowledged
+(harbor offered; selling intel to unknown buyers). Bray capitulated Day 22
+after the Vantery Judgment — Deed of Instrument unsigned, fuel/ore ask
+attached. Combine Kolvax in rebellion (~60,000 militia, southern front).
+Named in play: Grisholm (Bray capital), Vantery Arsenal (destroyed).**
 - ~38 million souls; pre-warp lost colony; language "Veyric" (drifted Low
   Gothic — Marguerite can interpret, soon pass)
 - Tech: early industrial war — rail, artillery, dirigibles, gas shells,
@@ -60,6 +61,7 @@ crackdown on its own millennial risings). Enforcement decision pending.**
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## Campaign date
-Day 19 of the Hesperus expedition. The flotilla holds orbit over Veyra;
-the claim is spoken, Bray defies it, enforcement decision pending. (Track
-elapsed time in log entries: "Day X of the Hesperus expedition.")
+Day 23 of the Hesperus expedition. The flotilla holds orbit over Veyra;
+the Grey War is silent; the Deed of Instrument and Tessene's invitation
+both wait on the Herald's next move. (Track elapsed time in log entries:
+"Day X of the Hesperus expedition.")

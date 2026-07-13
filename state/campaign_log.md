@@ -124,3 +124,38 @@ traffic — prestige if enforced, farce if not. Tessene's "test" unresolved.
 Compact selling information about us to unknown buyers. Bray interior
 unstable. Kest's Missionaria arrives in months to find a planet already
 mid-conversion. Locke unwatched at her wreck since Day 8.
+
+## Entry 005 — Days 20–23: The Vantery Judgment
+
+**Decision:** Answered Bray's defiance with one calibrated lance strike,
+then re-transmitted the terms UNCHANGED (the player's exact doctrine:
+bold, bloody, unambiguous).
+
+**Events:**
+- Day 20 pre-dawn: *Intemperance* lance strike destroyed the **Vantery
+  Arsenal** (shell-works, gas-plant, six-way rail junction), 20km from
+  **Grisholm**, Bray's capital — visible citywide. Cole timed for thinnest
+  shift; ~4,000 dead (Bray wireless claims 10,000, calls it atrocity).
+  Terms retransmitted word for word; Marguerite: "the unchanged terms are
+  the sermon."
+- Days 20–22: Bray's batteries fell silent battery by battery; militia
+  companies grounded rifles rather than fire on tenement processions.
+- Day 22: DIRECTORATE CAPITULATED — addressed "the Herald," ordered general
+  ceasefire, offered a "Deed of Instrument" (formal submission), contingent
+  ask embedded: the sky must feed the furnaces it silenced (FUEL AND ORE —
+  the asteroid belt is the obvious lever).
+- **Combine Kolvax** (armaments house, owned the Vantery) repudiated the
+  surrender; ~60,000 combine militia on the southern front have not stood
+  down; Directorate disowned them. Rebel army in the field.
+- Day 23: the Grey War is silent for the first time in 11 years.
+- **Reputation: Stable → Strong** (a world claimed with one voice and one
+  lance — the story will travel the Reach).
+
+**Decisions pending:** Descend to Grisholm to dictate the Deed; summon
+Bray's delegation to orbit; go to Tessene first (the King's test waits);
+or price the Deed at Kolvax's destruction by Bray's own armies. RESUME HERE.
+
+**Pending consequences:** Kolvax rebellion unresolved (blooding-ground for
+future native regiments?). Vantery dead seeding a martyr-narrative for
+enemies of the Return. Tessene's test unread. Compact selling intel to
+unknown buyers. Vex-Han-9 at ten petitions. Locke unwatched since Day 8.

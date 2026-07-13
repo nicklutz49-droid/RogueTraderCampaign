@@ -3,7 +3,8 @@
 ## Meters (Desperate / Strained / Stable / Strong / Dominant)
 - **Profit Factor:** Strained — liquidated nearly everything to reach the Reach
 - **Military Power:** Strained — three warships, one under-equipped regiment
-- **Reputation:** Stable — the name is worth more than the treasury, for now
+- **Reputation:** Strong — a world claimed with one voice and one lance
+  (the Vantery Judgment, Day 20); the story will travel the Reach
 
 ## Fleet
 | Ship | Class | Notes |
@@ -21,10 +22,11 @@
 - Supplies and colonists sufficient for ONE serious attempt at a foothold
 
 ## Holdings
-- **Veyra (Hesperus Prime II)** — claimed planetwide in the Emperor's name,
-  Day 15. CONTESTED: Tessene submitted, the Compact acknowledged (nominally),
-  Bray defies. Claim is prestige-loaded: enforced it makes the dynasty;
-  abandoned it marks the name across the Reach.
+- **Veyra (Hesperus Prime II)** — claimed planetwide in the Emperor's name
+  (Day 15); enforced by the Vantery Judgment (Day 20). All three powers now
+  stand down or submit in form: Tessene knelt, Compact acknowledged, Bray
+  capitulated Day 22 (Deed of Instrument unsigned; fuel-and-ore ask
+  attached). Outstanding: Combine Kolvax rebellion (~60,000 militia).
 
 ## Debts & obligations
 - House finances nearly exhausted by the expedition
