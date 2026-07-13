@@ -36,11 +36,13 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - Potential: subjects, labor force, recruits — if handled right
 - Full canon: `lore/places/hesperus_prime_ii_veyra.md` (deeper layers unrevealed)
 
-### Hesperus Prime IV — "the ruin"
-- Geometric orbital debris: an ancient ruin in orbit, pre-Imperial or older
-- Vex-Han-9 is desperate to investigate
-- Nature/dangers: established in GM canon — see
-  `lore/places/hesperus_prime_iv_lattice.md` (unrevealed in play)
+### Hesperus Prime IV — "the ruin" (passive survey Days 57–63)
+- REVEALED IN PLAY: artificial xenos ring, tens of millennia pre-Imperial;
+  crystalline-metallic (NULL REFERENT); one intact fragment kilometers
+  long; rhythmic power pulse, period 31 hours — not dead, not awake;
+  auspex geometry inconsistent between passes
+- Vex-Han-9 petitions to board; deeper nature/dangers: GM canon at
+  `lore/places/hesperus_prime_iv_lattice.md` (unrevealed)
 
 ### Outer system — the *Silent Tithe* (identity revealed in play, Day 5)
 - Lady-Captain Vespasia Locke, House Locke of Malfi (minor Warrant)
@@ -52,10 +54,15 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
 - Deep canon: `lore/factions/the_silent_tithe.md`
 
 ## Off-screen clocks (GM: advance these between scenes)
-- **The Silent Tithe** — cordial contact Days 5–8; refueling courtesy
-  honored, claim uncontested; she gifted Veyra intelligence and offered an
-  open trade channel. UNWATCHED since Day 8 — she gleans her wreck and
-  builds her read of Aurelian: `lore/factions/the_silent_tithe.md`
+- **The Silent Tithe** — salvage COMPLETE Day 64; inbound to Veyra with
+  her prospectus (three living colonies' routes + "regional stability"
+  annexes). Parley and the Vor Kaas first-claim trap both live:
+  `lore/factions/the_silent_tithe.md`
+- **Vex-Han-9's Ruuk clock** — NOT started: his signal threshold is
+  boarding the intact fragment and confirming function
+  (`lore/people/vex_han_9.md`). Boarding petition pending
+- **Tessene's test** — the 20,000 and the descent still undelivered; court
+  pressure rising as the Herald wins without them
 - **The Passage traffic** — more Imperial actors arrive in the Reach over
   the coming months; the wave is decided in canon:
   `lore/factions/imperial_actors.md`
@@ -63,11 +70,14 @@ arriving). Named in play: Grisholm, Vantery Arsenal (destroyed).**
   decided in canon: `lore/factions/the_displaced_line.md`
 
 ## New arrivals (system edge)
-- Two ragged freebooter/scavenger vessels loitering at the system's edge
-  since ~Day 50 — first of the Passage wave; keeping their distance
+- FOUR scavenger hulls at system edge by Day 60. *Beggar's Benefit*
+  petitioned Day 58 for scavenge/prospect rights, offering 1-in-5 tithe
+  (first stranger to ask the Herald's permission — precedent pending)
+- One "scavenger" flies with professional drive discipline and listens
+  like Locke — somebody's scout, unidentified (Cole flagged Day 60)
 
 ## Campaign date
-Day 52 of the Hesperus expedition. Kolvax pocket broken; 28,000 surrendered
-pending the Herald's justice; sky-trade circuit running (next delivery ~Day
-70). (Track elapsed time in log entries: "Day X of the Hesperus
-expedition.")
+Day 64 of the Hesperus expedition. The Judgment rendered; the *Silent
+Tithe* inbound to Veyra for parley; boarding petition, tithe petition, and
+the disciplined scout all pending. (Track elapsed time in log entries:
+"Day X of the Hesperus expedition.")

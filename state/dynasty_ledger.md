@@ -21,8 +21,9 @@
   - Loyal core: Aurelian's inducted 33rd Tempestus Scion veterans
   - Retainer companies warming to the man since the Greywell (Ferro
     volunteered them forward)
-- PENDING the Herald's justice: 28,000 surrendered Kolvax veterans —
-  potential Veyran regiments if absorbed
+- **Kolvax labor battalions**: 28,000 pardoned veterans in probation labor
+  (rails, Greywell, the Marches) with an earned path back to arms — a
+  future levy pool under the Herald's word
 
 ## Colonial assets
 - **SPENT Day 26–28: the one foothold is planted.** ~5,400 colonists landed
@@ -36,6 +37,11 @@
   stand down or submit in form: Tessene knelt, Compact acknowledged, Bray
   capitulated Day 22 (Deed of Instrument unsigned; fuel-and-ore ask
   attached). Outstanding: Combine Kolvax rebellion (~60,000 militia).
+
+## Industrial holdings (Veyra)
+- **The Kolvax estates** — arms plants, chemical works, foundries,
+  escheated to the dynasty Day 56; leased to Directorate tenant-management
+  under tithe. War-damaged but real: the dynasty now owns heavy industry.
 
 ## Debts & obligations
 - House finances nearly exhausted by the expedition

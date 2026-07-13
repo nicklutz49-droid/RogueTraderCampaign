@@ -237,3 +237,47 @@ Bray; split men from factories; or other. RESUME HERE.
 attrition real. Tessene's 20,000 and the King's test STILL undelivered —
 the court watches the Herald win without them. Freebooters multiplying at
 system edge. Locke's salvage nearly done. Kest's Missionaria months out.
+
+## Entry 008 — Days 53–64: The Vantery Gallows, the ruin breathes, Locke comes to trade
+
+**Decisions:** Judgment before mercy — 28,000 rank-and-file pardoned into
+labor/probation (rebuilding rails, Greywell, the Marches; path back to
+honor); nine officers of the Kolvax founding line executed publicly at the
+Vantery crater rim, Ansel foremost. Granted Vex-Han-9's passive survey.
+Began preparing to deal with the new arrivals.
+
+**Events:**
+- Days 53–56: the gallows-sermon. Ansel Kolvax died well; last words
+  broadcast planetwide: "The sky keeps its word. Remember that — both
+  ways." Doctrine now preached everywhere: "the Herald forgives soldiers,
+  not masters" — every master on Veyra heard the drop (Marguerite: "you
+  have founded a jurisprudence"). Kolvax industrial estates ESCHEATED TO
+  THE DYNASTY; Directorate granted tenant-management under tithe.
+- Days 57–63: Vex-Han-9's passive survey of Hesperus Prime IV (from the
+  Son's circuit): ring is ARTIFICIAL, xenos, tens of millennia pre-Imperial;
+  composition NULL REFERENT; one intact fragment kilometers long; RHYTHMIC
+  POWER PULSE, PERIOD 31 HOURS — "not dead, neither is it awake." He
+  petitions for a boarding expedition and offered to WAIVE his adepts'
+  favor-debts (Usurper's Instinct: he wants this more than his contract
+  explains).
+- System edge now four scavenger hulls. *Beggar's Benefit* petitioned for
+  scavenge/prospect rights offering 1-in-5 tithe. One "scavenger" flies
+  with professional drive discipline — somebody's scout (Cole).
+- Day 64: *Silent Tithe* left her anchorage (salvage complete) and burned
+  for Veyra. Locke's prospectus: pre-storm routes to THREE LIVING COLONIES
+  with approach solutions, plus "survey annexes touching regional
+  stability." Parley offered.
+- ILYANA'S DISCLOSURE (private): the Vor Kaas contract holds FIRST CLAIM on
+  all Passage charts — buying from Locke is a trap either way (breach, or
+  arm the Spire Obscura). "I would rather serve a lord who wins than a
+  contract that does."
+
+**Decisions pending:** The Locke parley (venue, objective, handling the Vor
+Kaas clause); Vex-Han-9's boarding expedition (grant/defer/price); the
+tithe petition and the disciplined scout. RESUME HERE.
+
+**Pending consequences:** Kolvax patriarchs fled to Compact banking havens
+with liquid fortune. "Soldiers not masters" doctrine unsettling every
+oligarch. Tessene's test and 20,000 still undelivered — court pressure
+growing. Vex-Han-9's Ruuk-signal threshold = boarding + confirmation (has
+NOT signaled). Kest's Missionaria on the traffic clock.

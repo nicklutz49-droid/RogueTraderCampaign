@@ -9,7 +9,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 ### Navigator Secundus Ilyana Vor Kaas
 - Ship's Navigator, young for her post, ambitious
 - Sent to the Reach by House Vor Kaas to prove herself — or be gotten rid of
-- Attitude: professional, watching whether Aurelian's star is worth hitching to
+- Attitude: INVESTING — Day 64 she privately disclosed the Vor Kaas
+  first-claim clause on Passage charts before the Locke parley ("I would
+  rather serve a lord who wins than a contract that does")
 - Brought the flotilla through the rough Vortigern Passage successfully
 
 ### First Officer Brannt Cole
@@ -22,9 +24,12 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
 - Tech-priest; obsessed with rumors of pre-Imperial technology in the Reach
 - Attitude: cooperative while the expedition serves his research
 - Currently fixated on the ancient orbital ruin at Hesperus Prime IV
-- Eleven formal petitions and counting; latest (Day 29): embark on the
-  *Dutiful Son* for "purely passive" long-augur survey of Prime IV in
-  passing — Aurelian's answer pending
+- Passive survey GRANTED and completed Days 57–63: ring artificial/xenos,
+  NULL REFERENT composition, intact km-long fragment, 31-HOUR POWER PULSE
+  ("not dead, neither is it awake")
+- Now petitions for a BOARDING expedition — offered to waive his adepts'
+  favor-debts (unprecedented; Usurper's Instinct flags he wants this more
+  than his contract explains). Answer pending
 
 ### Sister Dialogous Marguerite
 - Officially the archivist; everyone suspects she reports to someone
@@ -51,6 +56,9 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   (quoted our gun count, muster, bow trim); offered refueling courtesy
 - Day 8: gifted us her intercept digest of Veyra (three powers, Grey War,
   Return prophecy) as a free sample; standing offer: "the *Tithe* trades"
+- Day 64: salvage COMPLETE; inbound to Veyra offering pre-storm routes to
+  THREE LIVING COLONIES (approach solutions) + "survey annexes touching
+  regional stability." Parley pending
 - Attitude: cordial-commercial — we watered politely and watched her openly,
   which she rated "the correct way to do both"
 - Deep canon: `lore/factions/the_silent_tithe.md`
@@ -70,12 +78,13 @@ Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/
   buyers
 
 ## Enemies
-- **Combine Kolvax** (Veyra, Bray) — BROKEN Day 52 after the Long Night
-  campaign. **Marshal-Director Ansel Kolvax** (third son of the founding
-  line, last officer the militia obey) surrendered 28,000 men "only to the
-  Herald's own justice, not Grisholm's." Combine industrial estate
-  forfeit; Directorate claims both men and works. Fate pending the
-  Herald's justice
+- **Combine Kolvax** (Veyra, Bray) — DESTROYED. Rebellion broken Day 52;
+  the Herald's justice rendered Days 53–56: 28,000 pardoned into
+  labor/probation; nine founding-line officers hanged at the Vantery
+  crater. **Marshal-Director Ansel Kolvax — DEAD Day 56**, died well;
+  last words planetwide: "The sky keeps its word. Remember that — both
+  ways." Estates escheated to the dynasty. REMNANT THREAD: combine
+  patriarchs fled to Compact banking havens with the liquid fortune
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,
   bitter, resourceful enough to have sent an agent or assassin — their
   response is decided in canon, see `lore/factions/the_displaced_line.md`
