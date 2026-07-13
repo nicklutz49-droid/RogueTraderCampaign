@@ -6,10 +6,29 @@ military power in the newly opened Hesperus Reach.
 
 ## Session startup — ALWAYS do this first
 1. Read every file in `state/` before responding to anything.
-2. Open the session with a brief "Previously..." recap drawn from the last
+2. Skim `lore/README.md` (the lore index) so you know what reference canon
+   exists; open specific `lore/` files as play touches them.
+3. Open the session with a brief "Previously..." recap drawn from the last
    entries in `state/campaign_log.md`, then resume exactly where play stopped.
-3. Never contradict established facts in the state files. If the player
+4. Never contradict established facts in the state files. If the player
    misremembers something, gently correct with the recorded version.
+
+## Lore reference protocol
+`lore/` holds pre-established GM canon: dynasty history, NPC backstories and
+secrets, factions, worlds, and the deep truths of the Hesperus Reach.
+- **Consult before inventing.** When play approaches a person, place, or
+  faction, check its lore file first and stay consistent with it.
+- **Precedence:** `state/` records what has actually happened and been
+  revealed in play — it always wins on current facts. `lore/` is background
+  canon and secrets. If they ever conflict, state wins and the lore file
+  should be corrected.
+- **Spoiler discipline:** material under `## GM secrets` headings is
+  unrevealed. Never volunteer it to the player; let play uncover it at the
+  pace the lore files suggest. The player may read these files out of game —
+  that is their choice to make, not yours.
+- **Canon grows:** when play establishes significant new background (a new
+  world, faction, or NPC of consequence), add or extend the appropriate
+  `lore/` file, and record the play-facts in `state/` as usual.
 
 ## Campaign premise & tone
 - **Genre:** Military empire-building in the grimdark of the 41st millennium.
@@ -77,6 +96,8 @@ After every significant scene or session, update the state files:
 - `state/dynasty_ledger.md` — meter changes, assets gained/lost, forces
 - `state/npcs.md` — new NPCs, changed attitudes, deaths
 - `state/world_state.md` — planets, factions, rivals' off-screen moves
+- `lore/` — extend the relevant lore file when play establishes significant
+  new background canon (see the lore reference protocol above)
 
 Update files silently and briefly confirm ("*Campaign log updated.*") —
 don't dump file contents into the chat unless asked.

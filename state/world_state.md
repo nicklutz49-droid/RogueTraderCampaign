@@ -8,6 +8,8 @@
 - The Administratum cannot project power here for decades. First
   Warrant-holders write the rules.
 - Other Rogue Traders and freebooters are racing in through the Passage
+- Full region canon (history, dead colonies, warp conditions):
+  `lore/places/hesperus_reach.md`
 
 ## HESPERUS PRIME SYSTEM (current location)
 
@@ -15,12 +17,14 @@
 - Habitable, inhabited by a pre-warp human lost colony, millions of souls
 - Fractured into feuding nation-states (vox intercepts confirm conflict)
 - Potential: subjects, labor force, recruits — if handled right
-- Details of nations, tech level, culture: NOT YET ESTABLISHED (invent on approach)
+- Details of nations, tech level, culture: established in GM canon — see
+  `lore/places/hesperus_prime_ii_veyra.md` (unrevealed in play)
 
 ### Hesperus Prime IV — "the ruin"
 - Geometric orbital debris: an ancient ruin in orbit, pre-Imperial or older
 - Vex-Han-9 is desperate to investigate
-- Nature/dangers: NOT YET ESTABLISHED
+- Nature/dangers: established in GM canon — see
+  `lore/places/hesperus_prime_iv_lattice.md` (unrevealed in play)
 
 ### Outer system — "the quiet ship"
 - At least one vessel running dark near the gas giant
@@ -28,10 +32,13 @@
 - Has not hailed the flotilla. Intentions unknown.
 
 ## Off-screen clocks (GM: advance these between scenes)
-- **The quiet ship** — will act if ignored; decide its captain and agenda
+- **The quiet ship** — will act if ignored; captain and agenda decided in
+  canon: `lore/factions/the_silent_tithe.md`
 - **The Passage traffic** — more Imperial actors arrive in the Reach over
-  the coming months (rival Traders, missionaries, eventually Inquisition)
-- **Calixis grudge** — the displaced Vharadans' response is in motion
+  the coming months; the wave is decided in canon:
+  `lore/factions/imperial_actors.md`
+- **Calixis grudge** — the displaced Vharadans' response is in motion;
+  decided in canon: `lore/factions/the_displaced_line.md`
 
 ## Campaign date
 Opening day: the flotilla has just translated into the Hesperus Prime

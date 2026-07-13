@@ -2,6 +2,7 @@
 
 Format per NPC: role, personality, attitude toward Aurelian, agenda/secrets.
 Update attitudes as they shift. Mark deaths, don't delete entries.
+Deep canon per NPC (backstories, GM secrets): `lore/people/` and `lore/factions/`.
 
 ## Senior officers
 
@@ -14,7 +15,8 @@ Update attitudes as they shift. Mark deaths, don't delete entries.
 ### First Officer Brannt Cole
 - Ex-Imperial Navy, cashiered for reasons he won't discuss; ruthlessly competent
 - Attitude: respects how Aurelian took power
-- Secret (GM): the reason for his cashiering should eventually surface
+- Secret (GM): the reason for his cashiering should eventually surface —
+  decided in canon, see `lore/people/brannt_cole.md`
 
 ### Magos Errant Vex-Han-9
 - Tech-priest; obsessed with rumors of pre-Imperial technology in the Reach
@@ -25,14 +27,16 @@ Update attitudes as they shift. Mark deaths, don't delete entries.
 - Officially the archivist; everyone suspects she reports to someone
 - Attitude: unreadable; has *opinions* about the usurpation she keeps
   behind her eyes
-- Secret (GM): decide who she reports to when dramatically appropriate
-  (Ecclesiarchy? Inquisition? The displaced Vharadans?)
+- Secret (GM): who she reports to is now decided in canon — see
+  `lore/people/sister_marguerite.md` (unrevealed in play)
 
 ## Factions & contacts
 *(none established yet beyond the flotilla)*
 
 ## Enemies
 - **The displaced Vharadan main line** (Calixis Sector) — dispossessed,
-  bitter, resourceful enough to have sent an agent or assassin
+  bitter, resourceful enough to have sent an agent or assassin — their
+  response is decided in canon, see `lore/factions/the_displaced_line.md`
 - **Unknown vessel** near the Hesperus Prime gas giant — Rogue Trader or
-  freebooter signature, running quiet, has not hailed
+  freebooter signature, running quiet, has not hailed — identity and agenda
+  decided in canon, see `lore/factions/the_silent_tithe.md` (unrevealed in play)
